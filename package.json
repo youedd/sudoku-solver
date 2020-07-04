@@ -24,10 +24,14 @@
   "devDependencies": {
     "@types/jest": "^26.0.3",
     "@types/node": "^14.0.14",
+    "@types/ramda": "types/npm-ramda#dist",
     "jest": "^26.1.0",
     "nodemon": "^2.0.4",
     "ts-jest": "^26.1.1",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "ramda": "^0.27.0"
   }
 }
