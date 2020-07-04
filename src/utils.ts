@@ -1,0 +1,1 @@
+export const isValidDimension = (dimension: number) => Number.isInteger(Math.sqrt(dimension));
